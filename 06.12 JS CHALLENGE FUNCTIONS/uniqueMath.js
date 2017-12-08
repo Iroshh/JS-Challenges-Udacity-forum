@@ -1,6 +1,5 @@
 //TASK 1
 
-
 function multiplyTrio(x, y, z) {
     return x * y * z;
 }
@@ -69,18 +68,3 @@ function changePowerTotal(totalPower, genId, genStatus, powerAmount, totalGen) {
     }
     return totalPower;
 }
-
-
-// TASK 4
-
-var values = ["Jason", 4, true];
-var bool;
-
-bool = values.pop();
-
-console.log(values);
-
-console.log(bool);
-
-//TASK 5
-
